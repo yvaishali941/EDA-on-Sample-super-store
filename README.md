@@ -1,6 +1,6 @@
 # EDA-on-Sample-super-store
 
-Task: Exploratory Data Analysis on Sample super store Dataset
+Task: Exploratory Data Analysis on Sample super store Dataset using Python
 
 The Sample superstore Dataset consist of **9994 rows** and **13 columns**
 
